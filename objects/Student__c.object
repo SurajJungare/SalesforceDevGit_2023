@@ -174,34 +174,4 @@
 	   <type>Text</type>
 	   <unique>false</unique>
 	</fields>
-	<fields>
-	   <fullName>Thired_Field__c</fullName>
-	   <externalId>false</externalId>
-	   <label>Thired Field</label>
-	   <length>50</length>
-	   <required>false</required>
-	   <trackTrending>false</trackTrending>
-	   <type>Text</type>
-	   <unique>false</unique>
-	</fields>
-	<fields>
-	   <fullName>Fourth_Field__c</fullName>
-	   <externalId>false</externalId>
-	   <label>Fourth Field</label>
-	   <length>50</length>
-	   <required>false</required>
-	   <trackTrending>false</trackTrending>
-	   <type>Text</type>
-	   <unique>false</unique>
-	</fields>
-	<fields>
-	   <fullName>Fifth_Field__c</fullName>
-	   <externalId>false</externalId>
-	   <label>Fifth Field</label>
-	   <length>50</length>
-	   <required>false</required>
-	   <trackTrending>false</trackTrending>
-	   <type>Text</type>
-	   <unique>false</unique>
-	</fields>
 </CustomObject>
